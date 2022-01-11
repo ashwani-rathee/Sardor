@@ -1,0 +1,11 @@
+[deps]
+DSP = "717857b8-e6f2-59f4-9121-6e50c889abd2"
+DarkMode = "933edf66-562e-4494-9e5f-31d7e8b9849e"
+Glob = "c27321d9-0574-5035-807b-f59d2c89b15c"
+LibSndFile = "b13ce0c6-77b0-50c6-a2db-140568b8d1a5"
+Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
+PlutoUI = "7f904dfe-b85e-4ff6-b463-dae2292396a8"
+PortAudio = "80ea8bcb-4634-5cb3-8ee8-a132660d1d2d"
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
+SampledSignals = "bd7594eb-a658-542f-9e75-4c4d8908c167"
+WAV = "8149f6b0-98f6-5db9-b78f-408fbbb8ef88"
